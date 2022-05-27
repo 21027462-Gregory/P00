@@ -6,7 +6,7 @@ import org.junit.Test;
 
 public class CalculatorTest {
 	// To make it global
-	int a, b;
+	int a, b ;
 	Calculator cal = new Calculator();
 
 	@Before
